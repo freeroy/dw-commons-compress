@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>org.developerworld.commons</groupId>
 		<artifactId>dw-commons-parent</artifactId>
-		<version>0.0.1</version>
+		<version>0.0.2</version>
 	</parent>
 
 	<artifactId>dw-commons-compress</artifactId>
@@ -24,14 +24,10 @@
 		<dependency>
 			<groupId>commons-io</groupId>
 			<artifactId>commons-io</artifactId>
-			<version>2.2</version>
-			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.commons</groupId>
 			<artifactId>commons-compress</artifactId>
-			<version>1.10</version>
-			<scope>provided</scope>
 		</dependency>
 	</dependencies>
 </project>
