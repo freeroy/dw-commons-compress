@@ -4,7 +4,8 @@
 	<parent>
 		<groupId>org.developerworld.commons</groupId>
 		<artifactId>dw-commons-parent</artifactId>
-		<version>0.0.2</version>
+		<version>0.0.4</version>
+		<relativePath>../dw-commons-parent/pom.xml</relativePath>
 	</parent>
 
 	<artifactId>dw-commons-compress</artifactId>
