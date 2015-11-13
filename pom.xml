@@ -11,7 +11,7 @@
 	<artifactId>dw-commons-compress</artifactId>
 	<packaging>jar</packaging>
 	<name>dw-commons-compress</name>
-	<version>0.0.3</version>
+	<version>0.0.4-SNAPSHOT</version>
 	<description>文件压缩、解压缩工具包</description>
 
 	<!-- scm配置 -->
